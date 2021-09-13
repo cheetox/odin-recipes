@@ -1,0 +1,1 @@
+This is a simple recipe site made with HTML for The Odin Project.
